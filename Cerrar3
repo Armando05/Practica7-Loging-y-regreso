@@ -1,0 +1,8 @@
+<?php 
+
+seccion_start();
+seccion_destroy();
+
+header("lacation:seccion1.php")
+
+?>
