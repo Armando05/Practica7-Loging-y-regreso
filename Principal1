@@ -1,0 +1,30 @@
+<html> 
+<head> 
+</head> 
+<body> 
+
+
+<table> 
+<form action="Ope2.php" method="POST">
+
+<tr> 
+<td>
+<label for="usuario">usuario</label><br/>
+<input type="Text" size="8" maxlength="50" id="usuario"  name="usuario"><br/>
+</td> 
+</tr> 
+
+<tr> 
+<td>
+<label for="password">password</label><br/>
+<input type="password" size="8" maxlength="50" id="password"  name="password"><br/>
+</td> 
+</tr> 
+
+</table> 
+<input type="Submit" value="ENTRAR"></td>
+
+
+</form> 
+</body> 
+</html>
